@@ -1,0 +1,10 @@
+1. NodeMCU
+2. 2 Channel Relay module
+3. LDR Module
+4. REED switch 
+5. LEDs 
+6. Breadboard 
+7. Temperature sensor LM35 module
+8. Male jumpers  
+9. Female jumpers
+10. 5V 2A PowerSupply adapter 
